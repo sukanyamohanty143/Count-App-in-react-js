@@ -1,0 +1,14 @@
+.mainContainer{
+  width: 20vw;
+  height: 50vh;
+  margin: auto;
+  text-align: center;
+  margin-top: 15%;
+}
+
+h1{
+ font-size: xx-large;
+}
+ body{
+  background: linear-gradient(to right, #b02151,#6dd5ed);
+ }
